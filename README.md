@@ -85,7 +85,7 @@ DB_NAME=library_db
 Start server
 npm run dev
 
-Server runs at:http://localhost:3000
+
 
 🔗 API Endpoints (Express REST API)
 
